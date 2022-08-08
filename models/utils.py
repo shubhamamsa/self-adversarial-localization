@@ -33,7 +33,7 @@ def load_mask(line,base_path=''):
 
     return mask
     
-def to_sigmoid(x)
+def to_sigmoid(x):
 
 
 
